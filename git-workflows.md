@@ -8,7 +8,7 @@ When you start a project, you are the only person contributing to it, so you hav
 So, there is no reason (at least an apparent one) to use anything but an eternal loop of three steps:
 
 1. Make a change in your working directory
-2. Stage it (`git ...`)
+2. Stage it (`git add`)
 3. Commit (`git ...`)
 
 ### Pros
