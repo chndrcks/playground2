@@ -9,7 +9,7 @@ So, there is no reason (at least an apparent one) to use anything but an eternal
 
 1. Make a change in your working directory
 2. Stage it (`git add`)
-3. Commit (`git ...`)
+3. Commit (`git commit`)
 
 ### Pros
 + Unlimited "undo"
